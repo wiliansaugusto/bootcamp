@@ -17,5 +17,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto Criado para o Bootcamp DIO e Santander - Me contrata SANTANDER
-  version: 1.0
+  description: Projeto Criado para o Bootcamp DIO e Santander - Me contrata SANTANDER / Backend
+  version: 2.0
