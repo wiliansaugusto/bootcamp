@@ -25,7 +25,6 @@ public class StockDTO {
     private LocalDate date;
 
     @NotNull
-    @DecimalMin("0.00")
     @Digits(integer = 3, fraction = 2)
     private Double variation;
 
